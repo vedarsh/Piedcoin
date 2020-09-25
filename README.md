@@ -1,2 +1,2 @@
 # Piedcoin
-A simple Cryptocurrency in develoepment stage.
+A simple Cryptocurrency in developement stage.
